@@ -1,4 +1,4 @@
-*** Setting ***
+*** Setting **
 Resource   ../object-repository/page-objects/LoginPo.robot
 
 Documentation   This suite includes login tests
