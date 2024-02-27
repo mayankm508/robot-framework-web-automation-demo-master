@@ -1,4 +1,4 @@
-channels:
+channels:-
   # Define conda channels here.
   - conda-forge
 
