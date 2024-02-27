@@ -1,4 +1,4 @@
-*** Settings ***
+*** Settings **
 Resource    ../locators/LoginPageLocators.robot
 Resource    CommonPo.robot
 
