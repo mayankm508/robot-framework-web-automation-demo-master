@@ -101,9 +101,3 @@ post-processing outputs
 
 Run ``robot --help`` and ``rebot --help`` for more information about the command
 line usage. For a complete reference manual see [Robot Framework User Guide](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html "Robot Framework User Guide").
-
-## License
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/License_icon-mit-2.svg/2000px-License_icon-mit-2.svg.png" alt="MIT License" width="100" height="100"/> [MIT License](https://opensource.org/licenses/MIT)
-
-## Copyright
-Copyright 2023 [MaxSoft](https://maxsoftlk.github.io/ "MaxSoft")
