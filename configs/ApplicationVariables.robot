@@ -1,4 +1,4 @@
-*** Variables ***
+*** Variables **
 # Number of retries
 ${SMALL_RETRY_COUNT}           2x
 ${MEDIUM_RETRY_COUNT}          3x
